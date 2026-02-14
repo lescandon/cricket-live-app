@@ -1,0 +1,12 @@
+{
+  "name": "cricket-live-app",
+  "version": "1.0.0",
+  "description": "Live cricket match tracker",
+  "main": "api/cricket-data.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
